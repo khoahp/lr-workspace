@@ -1,2 +1,10 @@
 .metadata/
 RemoteSystemsTempFiles/
+.gradle/
+bundles/
+liferay-ce-portal-7.0-ga3/*
+modules/.project
+modules/.settings/
+modules/hello-baby/.classpath
+modules/hello-baby/.project
+modules/hello-baby/.settings/
